@@ -19,10 +19,12 @@ Esse projeto foi uma oportunidade prática de aplicar tudo o que venho estudando
 E, principalmente, a importância de estruturar o raciocínio lógico para resolver um problema maior em etapas menores e mais simples.
 
 📚 O que eu aprendi
+
 Durante o desenvolvimento da calculadora, percebi o quanto é importante planejar cada parte do código e pensar na experiência do usuário. Aprendi a lidar com erros comuns, como divisões por zero ou entradas inválidas, e como é possível tornar o programa mais robusto e amigável através do tratamento adequado dessas situações.
 Também entendi a importância da modularização, ou seja, dividir o código em funções específicas para facilitar a leitura, manutenção e reutilização.
 
 🧮 Sobre a Calculadora
+
 Essa calculadora permite:
 
 • Fazer operações básicas: adição, subtração, multiplicação e divisão;
@@ -34,6 +36,7 @@ Essa calculadora permite:
 • Exibir os resultados formatados de forma simples e compreensível.
 
 🔄 Etapas de Desenvolvimento
+
 O projeto foi construído em quatro etapas:
 
 • Implementação das operações básicas com lógica simples;
