@@ -1,4 +1,5 @@
 👩‍💻 Apresentação do Projeto – Calculadora Científica
+
 Este repositório apresenta um projeto que desenvolvi como parte do meu processo de aprendizagem: a criação de uma Calculadora Científica em Python.
 
 Esse projeto foi uma oportunidade prática de aplicar tudo o que venho estudando em sala de aula. Através dele, aprendi a utilizar conceitos fundamentais da programação, como:
